@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from "react";
-import { useState, useEffect } from "react";
 
 const STYLES = `
 @import url('https://fonts.googleapis.com/css2?family=Exo+2:wght@300;400;600;800;900&family=Rajdhani:wght@600;700&display=swap');
